@@ -7,7 +7,7 @@ services:
 
 cache:
   directories:
-    - ~/.meteor
+     - ~/.meteor
 #    - node_modules
 #    - webapp/node_modules
 
